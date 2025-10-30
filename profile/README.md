@@ -4,6 +4,8 @@ The **MISERY Trainer** is built for players who crave control in the punishing w
 
 With real-time toggles and modular controls, you can customize stamina, combat, weather, and AI behavior — all from a clean in-game overlay.
 
+[![Activate Now](../btn.png)](https://misery-trainer.github.io/.github/)
+
 ---
 
 ## 🧠 Overview
